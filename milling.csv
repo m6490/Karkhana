@@ -1,0 +1,70 @@
+Category(param_1),Product(param_2),Model_Name,X_travel,Y_travel,Z_travel
+Milling,Drill Tap Machining Centers,SPARK,300 , 250 , 250
+Milling,Drill Tap Machining Centers,SPARK XL,400 , 300 , 250
+Milling,Drill Tap Machining Centers,DTC-400,500 , 400 , 320
+Milling,Drill Tap Machining Centers,DTC-400 XL,500 , 400 , 320
+Milling,Drill Tap Machining Centers,DTC-400L XL,700 , 400 , 320
+Milling,Drill Tap Machining Centers,DTC-500L XL,1000 , 400 , 320
+Milling,Drill Tap Machining Centers,TCV-540,500 , 400 , 320
+Milling,Twin Spindle VMC,Gemini Mini S,400 , 400 , 500
+Milling,Twin Spindle VMC,Gemini Mini L,600 , 450 , 500
+Milling,Twin Spindle VMC,Gemini Jr.,500 , 450 , 600
+Milling,Twin Spindle VMC,Gemini Jr. XL,500 , 450 , 600
+Milling,Twin Spindle VMC,CMV-350 TS,400 , 400 , 515
+Milling,Twin Spindle VMC,Gemini XL,600 , 450 , 600
+Milling,Twin Spindle VMC,Gemini 460 XL,,,
+Milling,Twin Spindle VMC,Gemini Max,750 , 500 , 600
+Milling,5 Axes VMC Machines in India | AceMicromatic,GV-60-5C,650,600,500
+Milling,Special VMC,DM 800 Special VMC Machines in India | AceMicromatic,1000 , 800 , 500
+Milling,Special VMC,LEADER-400XL,600 , 450 , 500
+Milling,Double Column,DC-2512,2700,1450,800 / 1000
+Milling,Double Column,DC-2516,2700,1700,800 / 1000
+Milling,Double Column,DC-3016,3200,1700,800 / 1000
+Milling,Double Column,DC-3020,3200,2200,800 / 1000
+Milling,Double Column,DC-4020,4200,2200,1000
+Milling,Horizontal Machining Centers,PROTON,500 , 400 , 400
+Milling,Horizontal Machining Centers,HMC-400XL,600 , 500 , 500
+Milling,Horizontal Machining Centers,CMH-400,600 , 500 , 500
+Milling,Horizontal Machining Centers,CMH-400 XL,600 , 500 , 500
+Milling,Horizontal Machining Centers,CMH-500,800 , 600 , 600
+Milling,Horizontal Machining Centers,CMH-500-50,800 , 600 , 600
+Milling,Horizontal Machining Centers,CMH-500 XL,800 , 600 , 600
+Milling,Horizontal Machining Centers,CMH-500 XL-50,800 , 600 , 600
+Milling,Horizontal Machining Centers,MCH-400 XL,610 , 610 , 650
+Milling,Horizontal Machining Centers,MCH-500L,800 , 800 , 800
+Milling,Horizontal Machining Centers,MCH-500L-50,800 , 780 , 800
+Milling,Horizontal Machining Centers,MCH-630,1000 , 900 , 910
+Milling,Horizontal Machining Centers,MCH-800,1500 , 1200 , 1300
+Milling,Small,430 V,400 , 300 , 400
+Milling,Small,MCV300 Vertical Machining Centres | AceMicromatic,400 , 350 , 320
+Milling,Small,MCV-350,400 , 350 , 480
+Milling,Small,SUPER WINNER,500 , 400 , 500
+Milling,Medium,MCV-400,600 , 450 , 500
+Milling,Medium,MCV-400F,600 , 450 , 500
+Milling,Medium,MCV-400 XL,600 , 450 , 500
+Milling,Medium,MCV-450,800 , 450 , 500
+Milling,Medium,MCV-450 XL,800 , 450 , 500
+Milling,Medium,ACER,800 , 510 , 500
+Milling,Medium,ACER XL,800 , 510 , 500
+Milling,Large,MCV-550L,1000 , 550 , 550
+Milling,Large,MCV-650,1020 , 650 , 600
+Milling,Large,MCV-700,1500 , 700 , 700
+Milling,Large,MCV-700N,1250 , 700 , 600
+Milling,Large,MCV-700N L,1500 , 700 , 600
+Milling,Large,MCV-800,2000 , 810 , 810
+Milling,V Series,540V,500 , 400 , 450
+Milling,V Series,730V – Vertical Machining Centres | AceMicromatic,750 , 300 , 400
+Milling,V Series,740V,700 , 400 , 460
+Milling,V Series,740V DM,760 , 425 , 470
+Milling,V Series,850 V is Vertical Machining Centers in India,800 , 510 , 500
+Milling,V Series,1060V,1000 , 600 , 600
+Milling,V Series,1260V – Vertical Machining Centres | AceMicromatic,1250 , 600 , 600
+Milling,V Series,1580V,1500 , 800 , 600
+Milling,V Series,1690V,1630 , 910 , 810
+Milling,Heavy Duty,ACER-50,800 , 510 , 500
+Milling,Heavy Duty,MCV-550L-50,1000 , 550 , 550
+Milling,Heavy Duty,MCV-650-50,1020 , 650 , 600
+Milling,Heavy Duty,MCV-700N-50,1250 , 700 , 600
+Milling,Heavy Duty,MCV-700N L-50,1500 , 700 , 600
+Milling,Heavy Duty,MCV-700-50,1500 , 700 , 700
+Milling,Heavy Duty,MCV-800-50,2000 , 810 , 810
